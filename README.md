@@ -1,4 +1,4 @@
-## Olá, sou o Fabio Silva.
+##
 
 - 🔭 Occupation: Senior Software Engineer
 - 📚 Studying: Python

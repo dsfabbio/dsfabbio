@@ -1,6 +1,6 @@
 ##
 
-- 🔭 Occupation: Senior Software Engineer
+- 🔭 Occupation: Senior Network Engineer
 - 📚 Studying: Python
 - 📫 LInkedIn: fabiocandidosilva
 
